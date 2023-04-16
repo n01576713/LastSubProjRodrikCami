@@ -1,0 +1,252 @@
+body {
+    background-color: rgb(160, 187, 213);
+}
+
+.mainName{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 200%;
+    color: red;
+    text-shadow: 1px 1px 3px #000;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+dt{
+    font-weight: 400;
+}
+
+d1 dt {
+    font-weight: bold;
+    font-size: 125%;
+    text-decoration: underline;
+    margin-left: 1em;
+    margin-top: 5px;
+}
+
+d1 dd{
+    font-style: italic;
+    color: rgb(239, 44, 239);
+    border-style: double;
+    width: 225px;
+  }
+
+p{
+    max-width: 400px;
+
+}
+
+nav ul b a{
+    font-weight: bold;
+}
+
+nav ul li {
+    display: inline-block;
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    font-size: 14px;
+    color: grey;
+    margin-top: 2em;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+nav {
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: purple;
+}
+
+h2 {
+    color: #333;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    margin-right: 30;
+}
+
+.rodrikPicture{
+    width: 200;
+    height: 300;
+    margin-top: -200px;
+    margin-bottom: 10em;
+    margin-left: 30em;
+    transform: scale(1.5);
+    
+}
+
+audio {
+    display: block;
+    margin: auto;
+    margin-top: -165px;
+    margin-right: 470px;
+    margin-bottom: 200px;
+}
+
+.myBackp{
+    width: 300px;
+    margin-left: 1em;
+    margin-left: 1em;
+    border: 2px solid rgb(67, 67, 191);
+}
+
+table{
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 20px;
+    background-color: black;
+    color: white;
+}
+
+.season{
+    font-weight: bold;
+}
+
+.semester{
+    color: blue;
+}
+
+.CP311title{
+    font-weight: bold;
+    font-size: 150%;
+    color: blue;
+}
+
+table{
+    margin-left: 325px;
+}
+
+.myBackAlbMis{
+    float: right;
+    margin: auto;
+    height: 300px;
+    width: 450px;
+    margin-top: -225px;
+    margin-right: 444px;
+    margin-bottom: 100px;
+}
+
+.inerPics{
+    float: right;
+    margin-top: -425px;
+    border: 3px groove red;
+}
+
+.inerP{
+    margin-left: 1em;
+    border: 3px double black;
+}
+
+.CPAN134P{
+    margin-left: 1em;
+    border: 2px solid rgb(65, 223, 144);
+}
+
+.CPAN1341{
+    float: right;
+    margin-top: -500px;
+    border: 3px groove red;
+}
+
+.CPAN1342{
+    float: right;
+    margin-top: -560px;
+    margin-right: 500px;
+    border: 3px groove red;
+}
+
+.CPAN1343{
+    float: right;
+    margin-top: -300px;
+    margin-right: 445px;
+    border: 3px groove red;
+}
+
+.CPAN1344{
+    float: right;
+    margin-right: -690px;
+    margin-top: -190px;
+    border: 3px groove red;
+}
+.javaScriptimg {
+    transform: scale(0.5);
+  }
+
+label {
+    display: inline-block;
+    width: 100px;
+    margin-bottom: 10px;
+  }
+  
+  input[type="text"] {
+    width: 200px;
+    padding: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.554);
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  span {
+    color: red;
+    display: none;
+  }
+  
+  button {
+    background-color: rgb(98, 225, 98);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input:invalid + span {
+    display: block;
+  }
+
+  .form-container {
+    transform: scale(0.75);
+    margin-left: 55em;
+    margin-top: -14em;
+    color: white;
+  }
+  
+  h2 {
+    max-width: 50%;
+    color: white;
+  }
